@@ -1,7 +1,7 @@
 --[=[
     DevMini Viet Nam
     Link: https://www.facebook.com/groups/313279116516482
-    Arthur: Kỳ Kỳ
+    Author: Kỳ Kỳ
     Ý tưởng thuộc về Kỳ Kỳ
     Code không được mã hoá nhầm mục đích học tập
 ]=]--
