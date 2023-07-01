@@ -15,3 +15,15 @@ ScriptSupportEvent:registerEvent([=[UI.Button.Click]=], function(params)
     _G.uitime["p"..params.eventobjid]=0
     print("Thả")
 end)
+
+
+
+--[=[
+
+params có các giá trị sau:
+
+eventobjid : id người nhấn
+CustomUI : UI
+uielement : thành phần UI tương tác
+...
+]=]--
